@@ -136,9 +136,17 @@
 
 **Link(s) to work: ** [Sports News App](https://github.com/TheBaileyBrew/SportsNews)
 
-
 ----------
 
+### Day 14: Tues - July 10, 2018
+
+**Today's Progress**: Started working through Data Storage and getting prepped for the final project. Also put together a medium article about creating a custom class that creates/gets an ArrayList to use with RecyclerView.
+
+**Thoughts** It helps that I already have a broad understanding of how a database works, but I still think this will be one of the hardest sections for me to understand.
+
+**Link(s) to work: ** [Sort, Shuffle and Search Your Way Through An ArrayList](https://medium.com/@thebaileybrew/hacking-android-sort-shuffle-and-search-your-way-into-a-database-style-app-with-custom-class-f7c8eada94dc)
+
+----------
 
 <!--
 Template
@@ -150,4 +158,6 @@ Template
 **Thoughts** 
 
 **Link(s) to work: ** 
+
+----------
 -->
