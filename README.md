@@ -3,7 +3,7 @@ This is my progress in 100 days of coding. 30 minutes, every day to make a habit
 
 
 ## Contents
-* [Log - click here to see my progress](log.md)
+* [Log - click here to see my progress](daily_log.md)
 * [Resources](resources.md)
 
 
