@@ -1,17 +1,13 @@
 
-#100 Days Of Code - Log
+# 100 Days Of Code - Log
 
 ### Day 1: Wed - June 27, 2018
-##### (JSON Parsing)
 
 **Today's Progress**: Working my way through understanding JSON and HTTPREQUEST.
-
 **Thoughts:** This was the hardest section for me to understand so far, since it's like nothing I've ever done.
-
 **Link to work: ** [Sports News App](https://github.com/TheBaileyBrew/SportsNews)
 
 ### Day 2: Thurs - June 28, 2018 
-##### (delete me or comment me out)
 
 **Today's Progress**: Spent an hour working with a web-developer on parsing data from an API with nested values. Finally got my raw JSON data loaded via the httprequest and displayed on my news app. 
 
