@@ -4,8 +4,12 @@
 ### Day 1: Wed - June 27, 2018
 
 **Today's Progress**: Working my way through understanding JSON and HTTPREQUEST.
+
 **Thoughts:** This was the hardest section for me to understand so far, since it's like nothing I've ever done.
+
 **Link to work: ** [Sports News App](https://github.com/TheBaileyBrew/SportsNews)
+
+----------
 
 ### Day 2: Thurs - June 28, 2018 
 
@@ -15,6 +19,7 @@
 
 **Link(s) to work: ** [Sports News App](https://github.com/TheBaileyBrew/SportsNews)
 
+----------
 
 ### Day 3: Fri - June 29, 2018
 
