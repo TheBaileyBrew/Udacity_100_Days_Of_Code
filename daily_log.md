@@ -1,5 +1,5 @@
 
-# 100 Days Of Code - Log
+#100 Days Of Code - Log
 
 ### Day 1: Wed - June 27, 2018
 ##### (JSON Parsing)
