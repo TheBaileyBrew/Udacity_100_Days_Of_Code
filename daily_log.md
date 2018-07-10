@@ -29,6 +29,7 @@
 
 **Link(s) to work: ** [Sports News App](https://github.com/TheBaileyBrew/SportsNews)
 
+----------
 
 ### Day 4: Sat - June 30, 2018
 
@@ -38,6 +39,7 @@
 
 **Link(s) to work: ** 
 
+----------
 
 ### Day 5: Sun - July 1, 2018
 
@@ -47,6 +49,7 @@
 
 **Link(s) to work: ** 
 
+----------
 
 ### Day 6: Mon - July 2, 2018
 
@@ -58,6 +61,7 @@
 1. [Angry Nerds Recycler](https://github.com/TheBaileyBrew/Angry_Nerds_Demo_Recycler)
 2. [Sports News App](https://github.com/TheBaileyBrew/SportsNews)
 
+----------
 
 ### Day 7: Tues - July 3, 2018
 
@@ -67,6 +71,7 @@
 
 **Link(s) to work: ** [Sports News App](https://github.com/TheBaileyBrew/SportsNews)
 
+----------
 
 ### Day 8: Wed - July 4, 2018
 
@@ -76,6 +81,7 @@
 
 **Link(s) to work: ** 
 
+----------
 
 ### Day 9: Thurs - July 5, 2018
 
@@ -85,15 +91,22 @@
 
 **Link(s) to work: ** 
 
+----------
 
 ### Day 10: Fri - July 6, 2018
 
 **Today's Progress**: Reading up on SharedPreferences and deciding how I can most thoroughly over-complicate my News App Pt.2
 
+**Today's Secondary Progress**: Worked on the RecyclerView Demo, and built it up with additional resourcing for using within Fragments and sorting/searching the data returned in an ArrayList.
+
 **Thoughts** Since I'm prone to going overboard on my designs lately, I figured why not continue that trend and see what I could accomplish with SharedPrefs.
 
-**Link(s) to work: ** [Sports News App](https://github.com/TheBaileyBrew/SportsNews)
+**Link(s) to work: ** 
+1. [Sports News App](https://github.com/TheBaileyBrew/SportsNews)
+2. [Angry Nerds Recycler](https://github.com/TheBaileyBrew/Angry_Nerds_Demo_Recycler)
+3. [Medium Tutorial for Recycler](https://medium.com/@thebaileybrew/utilizing-androids-most-underrated-tool-recyclerview-viewholder-72f008627d89)
 
+----------
 
 ### Day 11: Sat - July 7, 2018
 
@@ -103,6 +116,7 @@
 
 **Link(s) to work: ** [Sports News App](https://github.com/TheBaileyBrew/SportsNews)
 
+----------
 
 ### Day 12: Sun - July 8, 2018
 
@@ -112,6 +126,7 @@
 
 **Link(s) to work: ** 
 
+----------
 
 ### Day 13: Mon - July 9, 2018
 
@@ -122,16 +137,17 @@
 **Link(s) to work: ** [Sports News App](https://github.com/TheBaileyBrew/SportsNews)
 
 
+----------
 
 
+<!--
+Template
 
+### Day X: DDD - MMMM DD, YYYY
 
-//Template
+**Today's Progress**: 
 
-//### Day X: DDD - MMMM DD, YYYY
+**Thoughts** 
 
-//**Today's Progress**: 
-
-//**Thoughts** 
-
-//**Link(s) to work: ** 
+**Link(s) to work: ** 
+-->
