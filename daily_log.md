@@ -148,6 +148,36 @@
 
 ----------
 
+### Day 15: Wed - July 11, 2018
+
+**Today's Progress**: Planning out my capstone project, and wondering how I'm ever going to achieve my own goals for this inventory app. Dream big or go home I guess
+
+**Thoughts** Spent the morning in Figma going over what I wanted my Inventory App to look like
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 16: Thurs - July 12, 2018
+
+**Today's Progress**: SQL should stand for *S* o hard to stay *Q* uiet because this database is being *L* ame and not letting me add entries to the database even though it's identical to the demo app. Sigh, erase and rewrite.
+
+**Thoughts** I was getting really frustrated that my SQL Db wasn't working and continued to crash my app. So I deleted what I had and started over.
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 17: Fri - July 13, 2018
+
+**Today's Progress**: Started from scratch this morning and rewrote my inventory app. Got it working and submitted. Huzzah!!
+
+**Thoughts** Felt good to get it up and running, and made it even better knowing that I'm starting to get a better understanding of how the SQLite database works on Android.
+
+**Link(s) to work: ** [Retail Inventory Submission Pt1](https://github.com/TheBaileyBrew/RetailInventory)
+
+----------
+
 <!--
 Template
 
