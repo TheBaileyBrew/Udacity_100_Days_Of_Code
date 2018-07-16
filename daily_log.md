@@ -178,6 +178,36 @@
 
 ----------
 
+### Day 18: Sat - July 14, 2018
+
+**Today's Progress**: Worked through the logic for the Inventory App Pt2. One database file with 3(maybe 4) tables to pull and validate data at the time of data entry to authenticate that no duplicates are being entered into the inventory database. I'm going balls-to-the-wall on this capstone project and it will be one of the pivotal apps in my portfolio moving forward.
+
+**Thoughts** Since my goal is to turn this app into something that I will ultimately use at my job, I want to make sure that it's efficient and scaleable moving forward.
+
+**Link(s) to work: ** [Mobile Inventory - Hackney](https://github.com/TheBaileyBrew/MobileInventory)
+
+----------
+
+### Day 19: Sun - July 15, 2018
+
+**Today's Progress**: Working through a new demo on the MediaPlayer functionality. Also spent a couple hours laying out screens for my inventory app
+
+**Thoughts** Basic day, simple progress.
+
+**Link(s) to work: ** 
+1. [Mobile Inventory - Hackney](https://github.com/TheBaileyBrew/MobileInventory)
+2. [Bailey Brew Music Demo](https://github.com/TheBaileyBrew/BaileyBrewMusicDemo)
+
+----------
+
+### Day 20: Mon - July 16, 2018
+
+**Today's Progress**: Worked on the MediaPlayer logic and tried to understand the life cycle that the MediaPlayer object goes through as it transitions between states. Almost ready to unveil the new demo
+
+**Thoughts** Nothing major, just lots of trial error through setting up the seekbar
+
+**Link(s) to work: ** [Bailey Brew Music Demo](https://github.com/TheBaileyBrew/BaileyBrewMusicDemo)
+
 <!--
 Template
 
