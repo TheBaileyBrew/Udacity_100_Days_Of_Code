@@ -208,6 +208,29 @@
 
 **Link(s) to work: ** [Bailey Brew Music Demo](https://github.com/TheBaileyBrew/BaileyBrewMusicDemo)
 
+----------
+
+### Day 21: Tues - July 17, 2018
+
+**Today's Progress**: 3 weeks into coding every day has helped me turn a corner in my thought process. I've always struggled with follow-through, so just saying to myself that I've coded every single day for 3 weeks is a huge boost to my self confidence and reminds me that I could potentially be a good Android Dev some day. Today I spent a couple hours reading through the official documentation for the MediaPlayer framework and how it can be  a service extension. Also worked on my MusicPlayer demo and started moving repeating functions to separate classes/methods to cut down on boilerplate code.
+
+**Thoughts** 
+
+**Link(s) to work: ** [Bailey Brew Music Demo](https://github.com/TheBaileyBrew/BaileyBrewMusicDemo)
+
+----------
+
+### Day 22: Wed - July 18, 2018
+
+**Today's Progress**: Worked for a few hours on the MediaPlayer Demo and spent even more time working through the tutorial on Medium associated with it.
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+1. [Bailey Brew Music Demo](https://github.com/TheBaileyBrew/BaileyBrewMusicDemo)
+2. [Understanding Android's MediaPlayer: Give Your Apps Some Musical Panache!](https://medium.com/@thebaileybrew/understanding-androids-mediaplayer-give-your-apps-some-musical-panache-611dc8a5b3b7)
+
+----------
 <!--
 Template
 
