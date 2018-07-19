@@ -231,6 +231,18 @@
 2. [Understanding Android's MediaPlayer: Give Your Apps Some Musical Panache!](https://medium.com/@thebaileybrew/understanding-androids-mediaplayer-give-your-apps-some-musical-panache-611dc8a5b3b7)
 
 ----------
+
+### Day 23: Thurs - July 19, 2018
+
+**Today's Progress**: Spent most of the day sourcing articles, tutorials, books, libraries, etc for the ABND Nanodegree program. Then spent a little time on finalizing my color scheme for the Inventory App.
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
 <!--
 Template
 
