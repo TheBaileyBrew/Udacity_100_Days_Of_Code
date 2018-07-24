@@ -242,6 +242,56 @@
 
 ----------
 
+### Day 24: Fri - July 20, 2018
+
+**Today's Progress**: Trudging through Content Providers as I envision what my capstone project will look like if I incorporate a cloud-stored database for multiple devices using my application... Dream Big Or Quit Soon
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 25: Sat - July 21, 2018
+
+**Today's Progress**: Purposely tried to stay offline for much of my coding time to see how much had been actually absorbed into accessible  knowledge. Attempted to go back through the necessary components of Project 6 as I prepare for my webinar on Saturday
+
+**Thoughts** The nerves are starting to get to me as I want to make sure that I have a good showing on the live_feed.
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 26: Sun - July 22, 2018
+
+**Today's Progress**: Had a second day of offline work to test my own coding knowledge. I remember less than all of it, but more than I expected. It makes me feel like I'm progressing even though I've been away from education for 10+ years.
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 27: Mon - July 23, 2018
+
+**Today's Progress**: Worked through added a 3rd screen to my capstone Inventory App, and although I'm pleased with the design... it took me longer than I would have liked to debug why the activity crashed with a binary inflation error... Finally realized that I was requesting too much memory and had to rewrite the design of the view
+
+**Thoughts** Still not quite sure why I was getting an inflation error, except it always seemed to be when I had a ScrollView or a ListView object on screen
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 28: Tues - July 24, 2018
+
+**Today's Progress**: Spent today going through ContentProviders and attempting to wrap my mind on how to organize my providers for my capstone project when I want to utilize 3 different tables for data validation.
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
 
 <!--
 Template
