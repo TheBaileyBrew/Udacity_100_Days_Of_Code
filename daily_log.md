@@ -286,12 +286,151 @@
 
 **Today's Progress**: Spent today going through ContentProviders and attempting to wrap my mind on how to organize my providers for my capstone project when I want to utilize 3 different tables for data validation.
 
+**Thoughts** I may have taken on more than I can chew in the hopes of turning my capstone into a project that I can use for work as well...
+
+**Link(s) to work: ** https://github.com/TheBaileyBrew/MobileInventory
+
+----------
+
+### Day 29: Wed - July 25, 2018
+
+**Today's Progress**: Restarting on my capstone inventory project. Switching directions and building a VideoGame Inventory App. Essentially taking the elements from my Mobile Inventory app and repurposing the boilerplate
+
+**Thoughts** I still think that I may wind up going overboard on this one, but I'll get it done much sooner since I'm only going ot work with one table in my database, rather than 3. My Mobile Inventory will become my pet project at work.
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 30: Thur - July 26, 2018
+
+**Today's Progress**: Spent much of my day debugging several other colleagues apps as they run into snags on the News App Pt2.
+
 **Thoughts** 
 
 **Link(s) to work: ** 
 
 ----------
 
+### Day 31: Fri - July 27, 2018
+
+**Today's Progress**: Spent much of my day debugging several other colleagues apps as they run into snags on the News App Pt2.
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 32: Sat - July 28, 2018
+
+**Today's Progress**: Skip Day
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 33: Sun - July 29, 2018
+
+**Today's Progress**: Worked through the logic of incorporating a ListView vs RecyclerView in the RetailInventory App.
+
+**Thoughts** Although RV is a more well-rounded listing, it seems as though ContentProviders/CursorAdapters were mostly built to suit the needs of a ListView
+
+**Link(s) to work: ** https://github.com/TheBaileyBrew/RetailInventory
+
+----------
+
+### Day 34: Mon - July 30, 2018
+
+**Today's Progress**: Managed to successfuly add a RV in place of a LV in my inventory app. Worked today on the visual representation of the objects that display on screen.
+
+**Thoughts** 
+
+**Link(s) to work: ** https://github.com/TheBaileyBrew/RetailInventory
+
+----------
+
+### Day 35: Tues - July 31, 2018
+
+**Today's Progress**: Updated some color schemes. 
+
+**Thoughts** 
+
+**Link(s) to work: ** https://github.com/TheBaileyBrew/RetailInventory
+
+----------
+
+### Day 36: Wed - August 1, 2018
+
+**Today's Progress**: Added more visual polish
+
+**Thoughts** 
+
+**Link(s) to work: ** https://github.com/TheBaileyBrew/RetailInventory
+
+----------
+
+### Day 37: Thurs - August 2, 2018
+
+**Today's Progress**: Contemplating incorporating a JSON API request against the VideoGame Database, to collect names of all video games to validate entry details.
+
+**Thoughts** Bringing together the elements from the previous apps will really help me feel as though I've accomplished learning the content.
+
+**Link(s) to work: ** https://github.com/TheBaileyBrew/RetailInventory
+
+----------
+
+### Day 38: Fri - August 3, 2018
+
+**Today's Progress**: Worked out some of the logic for EditText validation on the Entry Screen.
+
+**Thoughts** Thinking through the best possible UI/UX options for validating in real-time.
+
+**Link(s) to work: ** https://github.com/TheBaileyBrew/RetailInventory
+
+----------
+
+### Day 39: Sat - August 4, 2018
+
+**Today's Progress**: Skip Day - Renovating our house
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 40: Sun - August 5, 2018
+
+**Today's Progress**: Read up on more conceptual theories on working with and customizing a RecyclerView layout. Thinking long and hard about how to properly instantiate a RV into my capstone inventory project.
+
+**Thoughts** 
+
+**Link(s) to work: ** https://github.com/TheBaileyBrew/RetailInventory
+
+----------
+
+### Day 41: Mon - August 6, 2018
+
+**Today's Progress**: Incorporated an onClick, onLongClick & onSwipe Listeners to perform various fatures. 
+
+**Thoughts** onClick will allow for editting, onLongClick will show more details (including Supplier, Game Details, Screens, etc) - All this should be collectable from the JSON API Query.
+
+**Link(s) to work: ** https://github.com/TheBaileyBrew/RetailInventory
+
+----------
+
+### Day X: DDD - MMMM DD, YYYY
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
 
 <!--
 Template
