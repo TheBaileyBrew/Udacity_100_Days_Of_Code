@@ -414,7 +414,7 @@
 
 ### Day 41: Mon - August 6, 2018
 
-**Today's Progress**: Incorporated an onClick, onLongClick & onSwipe Listeners to perform various fatures. 
+**Today's Progress**: Incorporated an onClick, onLongClick & onSwiped Listeners to perform various fatures. 
 
 **Thoughts** onClick will allow for editting, onLongClick will show more details (including Supplier, Game Details, Screens, etc) - All this should be collectable from the JSON API Query.
 
@@ -422,15 +422,84 @@
 
 ----------
 
-### Day X: DDD - MMMM DD, YYYY
+### Day 42: Tues - August 7, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Worked through the logic behing onClick, onLongClick and onSwiped
+
+**Thoughts** Taking the time to incorporate these things may wind up being a thorn in my side, because I feel like my code is so messy now
+
+**Link(s) to work: ** https://github.com/TheBaileyBrew/RetailInventory
+
+----------
+
+### Day 43: Wed - August 8, 2018
+
+**Today's Progress**: Read through the Developers Notes on onLongClick to understand the structure better.
+
+**Thoughts** 
+
+**Link(s) to work: ** https://github.com/TheBaileyBrew/RetailInventory
+
+----------
+
+### Day 44: Thurs - August 9, 2018
+
+**Today's Progress**: Played around with SnackBar vs AlertDialog for reacting to my onClicks.
+
+**Thoughts** 
+
+**Link(s) to work: ** https://github.com/TheBaileyBrew/RetailInventory
+
+----------
+
+### Day 45: Fri - August 10, 2018
+
+**Today's Progress**: Scrapped my initial RetailInventory App, and started a new Repo to try and clean up my own mess...
+
+**Thoughts** 
+
+**Link(s) to work: ** https://github.com/TheBaileyBrew/VideoGameInventory
+
+----------
+
+### Day 46: Sat - August 11, 2018
+
+**Today's Progress**: Study Jam Session
 
 **Thoughts** 
 
 **Link(s) to work: ** 
 
 ----------
+
+### Day 47: Sun - August 12, 2018
+
+**Today's Progress**: Day Off
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 48: Mon - August 13, 2018
+
+**Today's Progress**: Worked through the final elements to make my new app load on my test device. DB built, ContentProviders linked.
+
+**Thoughts** 
+
+**Link(s) to work: ** https://github.com/TheBaileyBrew/VideoGameInventory
+
+----------
+
+### Day 49: Tues - August 14, 2018
+
+**Today's Progress**: Spent the morning recording a walkthrough on the Musical Structure App for other Udacity Scholars. Also worked on my VG Database app. added AlertDialog and some other ErrorTrapping checks
+
+**Thoughts** 
+
+**Link(s) to work: ** https://github.com/TheBaileyBrew/VideoGameInventory
+
 
 <!--
 Template
