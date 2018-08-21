@@ -494,11 +494,71 @@
 
 ### Day 49: Tues - August 14, 2018
 
-**Today's Progress**: Spent the morning recording a walkthrough on the Musical Structure App for other Udacity Scholars. Also worked on my VG Database app. added AlertDialog and some other ErrorTrapping checks
+**Today's Progress**: Slacked it today. Spent a great deal of my day helping other students debug their apps.
 
 **Thoughts** 
 
 **Link(s) to work: ** https://github.com/TheBaileyBrew/VideoGameInventory
+
+----------
+
+### Day 50: Wed - August 15, 2018
+
+**Today's Progress**: Found a student that appeared to be plagiarizing an entire app. The original app came from a tutorial/training youtube, but the code is nearly identical in dozens of places. This student reached out via Slack to ask for help on a completely basic debugging situation and after looking at the code I realized that there was no way that this student wrote the code if he was asking why it crashed.
+
+**Thoughts** 
+
+**Link(s) to work: ** https://github.com/SUPATURBOLOCITY/FlagQuizApp
+
+----------
+
+### Day 51: Thurs - August 16, 2018
+
+**Today's Progress**: More ContentProviders.
+
+**Thoughts** 
+
+**Link(s) to work: ** https://github.com/TheBaileyBrew/VideoGameInventory
+
+----------
+
+### Day 52: Fri - August 17, 2018
+
+**Today's Progress**: Read through Android Pie documentation.
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 53: Sat - August 18, 2018
+
+**Today's Progress**: Worked through basic Room implementation.
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 54: Sun - August 19, 2018
+
+**Today's Progress**: Reread concepts for ContentProviders
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 55: Mon - August 20, 2018
+
+**Today's Progress**: Managed to figure out 2 things today! First, I managed to get the RecyclerView implementation running on my Database App so that deleting an individual item will remove the correct item record and update the screen. Second, I figured out how to run two LoaderCallBacks simultaneously to update onscreen data in real time from two unique sources. One from a Cursor to the DB and a second from an API via a barcode reader interface.
+
+**Thoughts** Today was a successful day.
+
+**Link(s) to work: ** https://github.com/TheBaileyBrew/NowLoading
 
 
 <!--
