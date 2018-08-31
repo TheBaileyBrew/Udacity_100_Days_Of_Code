@@ -560,7 +560,117 @@
 
 **Link(s) to work: ** https://github.com/TheBaileyBrew/NowLoading
 
+----------
 
+### Day 56: Tues - August 21, 2018
+
+**Today's Progress**: Continued working through the conceptual design of getting my Recycler fully implemented.
+
+**Thoughts** 
+
+**Link(s) to work: ** https://github.com/TheBaileyBrew/NowLoading
+
+----------
+
+### Day 57: Wed - August 22, 2018
+
+**Today's Progress**: Submitted my app for review - fingers crossed
+
+**Thoughts** 
+
+**Link(s) to work: ** https://github.com/TheBaileyBrew/NowLoading
+
+----------
+
+### Day 58: Thurs - August 23, 2018
+
+**Today's Progress**: App was returned. So I scrapped 1/3 of the code and rebuilt it with the seemingly uneccessary components like a sell button.
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 59: Fri - August 24, 2018
+
+**Today's Progress**: I officially graduated!!!!!!
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 60: Sat - August 25, 2018
+
+**Today's Progress**: Spent today as a well deserved break day
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 61: Sun - August 26, 2018
+
+**Today's Progress**: Updated my A.S. to incorporate Android Pie, also started working on rebuilding my apps to support API 28 and Android Material rather than AppCompat.
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 62: Mon - August 27, 2018
+
+**Today's Progress**: Worked some more on rebuilding apps to incorporate Material Design.
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 63: Tues - August 28, 2018
+
+**Today's Progress**: Spent the day in slack channels helping students debug their code.
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 64: Wed - August 29, 2018
+
+**Today's Progress**: Signed up for a Udemy Course - Android Oreo Essential Training. Working my way through the intro lessons is incredibly slow compared to the training from Udacity.
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 65: Thurs - August 30, 2018
+
+**Today's Progress**: Officially accepted a position as a ProjectCoach for the GWG Scholarship program that I just completed.
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+### Day 66: Fri - August 31, 2018
+
+**Today's Progress**: Working my way through the intro videos in the AND program. Basically refreshers on the concepts that I learned in ABND.
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
 <!--
 Template
 
