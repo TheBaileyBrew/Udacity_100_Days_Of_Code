@@ -672,7 +672,7 @@
 
 ----------
 
-### Day 66: Sat - September 1, 2018
+### Day 67: Sat - September 1, 2018
 
 **Today's Progress**: Day Off - Floor refinishing
 
@@ -682,7 +682,7 @@
 
 ----------
 
-### Day 66: Sun - September 2, 2018
+### Day 68: Sun - September 2, 2018
 
 **Today's Progress**: Day Off - Floor refinishing
 
@@ -692,7 +692,7 @@
 
 ----------
 
-### Day 66: Mon - September 3, 2018
+### Day 69: Mon - September 3, 2018
 
 **Today's Progress**: Took some time to read through documentation on Activity Lifecycles
 
@@ -702,7 +702,7 @@
 
 ----------
 
-### Day 66: Tues - September 4, 2018
+### Day 70: Tues - September 4, 2018
 
 **Today's Progress**: 
 
