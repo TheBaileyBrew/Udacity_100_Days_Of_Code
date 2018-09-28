@@ -711,6 +711,271 @@
 **Link(s) to work: ** 
 
 ----------
+
+
+### Day 71: Tues - September 5, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 72: Tues - September 6, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 73: Tues - September 7, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 74: Tues - September 8, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 75: Tues - September 9, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 76: Tues - September 10, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 77: Tues - September 11, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 78: Tues - September 12, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 79: Tues - September 13, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 80: Tues - September 14, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 81: Tues - September 15, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 82: Tues - September 16, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 83: Tues - September 17, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 84: Tues - September 18, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 85: Tues - September 19, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 86: Tues - September 20, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 87: Tues - September 21, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 88: Tues - September 22, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 89: Tues - September 23, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 90: Tues - September 24, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 91: Tues - September 25, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 92: Tues - September26, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 93: Tues - September 27, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
+
+### Day 94: Tues - September 28, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+----------
+
 <!--
 Template
 
