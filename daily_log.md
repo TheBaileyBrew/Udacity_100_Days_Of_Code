@@ -713,7 +713,7 @@
 ----------
 
 
-### Day 71: Tues - September 5, 2018
+### Day 71: Wed - September 5, 2018
 
 **Today's Progress**: 
 
@@ -724,7 +724,7 @@
 ----------
 
 
-### Day 72: Tues - September 6, 2018
+### Day 72: Thur - September 6, 2018
 
 **Today's Progress**: 
 
@@ -735,7 +735,7 @@
 ----------
 
 
-### Day 73: Tues - September 7, 2018
+### Day 73: Fri - September 7, 2018
 
 **Today's Progress**: 
 
@@ -746,7 +746,7 @@
 ----------
 
 
-### Day 74: Tues - September 8, 2018
+### Day 74: Sat - September 8, 2018
 
 **Today's Progress**: 
 
@@ -757,7 +757,7 @@
 ----------
 
 
-### Day 75: Tues - September 9, 2018
+### Day 75: Sun - September 9, 2018
 
 **Today's Progress**: 
 
@@ -768,7 +768,7 @@
 ----------
 
 
-### Day 76: Tues - September 10, 2018
+### Day 76: Mon - September 10, 2018
 
 **Today's Progress**: 
 
@@ -790,7 +790,7 @@
 ----------
 
 
-### Day 78: Tues - September 12, 2018
+### Day 78: Wed - September 12, 2018
 
 **Today's Progress**: 
 
@@ -801,7 +801,7 @@
 ----------
 
 
-### Day 79: Tues - September 13, 2018
+### Day 79: Thur - September 13, 2018
 
 **Today's Progress**: 
 
@@ -812,7 +812,7 @@
 ----------
 
 
-### Day 80: Tues - September 14, 2018
+### Day 80: Fri - September 14, 2018
 
 **Today's Progress**: 
 
@@ -823,7 +823,7 @@
 ----------
 
 
-### Day 81: Tues - September 15, 2018
+### Day 81: Sat - September 15, 2018
 
 **Today's Progress**: 
 
@@ -834,7 +834,7 @@
 ----------
 
 
-### Day 82: Tues - September 16, 2018
+### Day 82: Sun - September 16, 2018
 
 **Today's Progress**: 
 
@@ -845,7 +845,7 @@
 ----------
 
 
-### Day 83: Tues - September 17, 2018
+### Day 83: Mon - September 17, 2018
 
 **Today's Progress**: 
 
@@ -867,7 +867,7 @@
 ----------
 
 
-### Day 85: Tues - September 19, 2018
+### Day 85: Wed - September 19, 2018
 
 **Today's Progress**: 
 
@@ -878,7 +878,7 @@
 ----------
 
 
-### Day 86: Tues - September 20, 2018
+### Day 86: Thur - September 20, 2018
 
 **Today's Progress**: 
 
@@ -889,7 +889,7 @@
 ----------
 
 
-### Day 87: Tues - September 21, 2018
+### Day 87: Fri - September 21, 2018
 
 **Today's Progress**: 
 
@@ -900,7 +900,7 @@
 ----------
 
 
-### Day 88: Tues - September 22, 2018
+### Day 88: Sat - September 22, 2018
 
 **Today's Progress**: 
 
@@ -911,7 +911,7 @@
 ----------
 
 
-### Day 89: Tues - September 23, 2018
+### Day 89: Sun - September 23, 2018
 
 **Today's Progress**: 
 
@@ -922,7 +922,7 @@
 ----------
 
 
-### Day 90: Tues - September 24, 2018
+### Day 90: Mon - September 24, 2018
 
 **Today's Progress**: 
 
@@ -944,7 +944,7 @@
 ----------
 
 
-### Day 92: Tues - September26, 2018
+### Day 92: Wed - September26, 2018
 
 **Today's Progress**: 
 
@@ -955,7 +955,7 @@
 ----------
 
 
-### Day 93: Tues - September 27, 2018
+### Day 93: Thur - September 27, 2018
 
 **Today's Progress**: 
 
@@ -966,7 +966,7 @@
 ----------
 
 
-### Day 94: Tues - September 28, 2018
+### Day 94: Fri - September 28, 2018
 
 **Today's Progress**: 
 
@@ -975,6 +975,54 @@
 **Link(s) to work: ** 
 
 ----------
+
+### Day 95: Sat - September 29, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+### Day 96: Sun - September 30, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+### Day 97: Mon - October 01, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+### Day 98: Tues - October 02, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+### Day 99: Wed - October 03, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
+
+### Day 100: Thur - October 04, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work: ** 
 
 <!--
 Template
